@@ -1,0 +1,17 @@
+{
+    "name": "tramasec/cumppla",
+    "authors": [
+        {
+            "name": "Victor Sandoval",
+            "email": "vsandoval@tramasec.com"
+        }
+    ],
+    "require": {
+        "ext-soap" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cumppla\\": "src"
+        }
+    }
+}
